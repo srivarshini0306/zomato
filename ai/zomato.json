@@ -1,0 +1,24 @@
+{
+  "name": "Zomato Intelligence Dark",
+  "dataColors": [
+    "#E23744",
+    "#3B82F6",
+    "#22C55E",
+    "#F59E0B",
+    "#A855F7",
+    "#14B8A6",
+    "#F97316",
+    "#EC4899"
+  ],
+  "good": "#22C55E",
+  "neutral": "#F59E0B",
+  "bad": "#E23744",
+  "background": "#07141B",
+  "foreground": "#F5F7FA",
+  "firstLevelElements": "#F5F7FA",
+  "secondLevelElements": "#91A3AD",
+  "thirdLevelElements": "#0D2029",
+  "fourthLevelElements": "#617782",
+  "secondaryBackground": "#102832",
+  "tableAccent": "#E23744"
+}

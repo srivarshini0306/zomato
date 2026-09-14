@@ -1,0 +1,10 @@
+zomato_dataset/
+airflow/logs/
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+creds
