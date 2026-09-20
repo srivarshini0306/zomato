@@ -3,6 +3,6 @@ snowflake-connector-python
 groq
 pandas
 numpy
-torch==2.1.2
-torchvision==0.16.2
-sentence-transformers==6.1.0
+torch
+torchvision
+sentence-transformers
